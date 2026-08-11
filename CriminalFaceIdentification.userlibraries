@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="mysql-connector-j-9.7.0">
+    <archive path="C:/Users/USER/Downloads/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0.jar" />
+  </library>
+  <library name="opencv-4120">
+    <archive path="C:/Users/USER/Downloads/opencv/build/java/opencv-4120.jar" />
+  </library>
+</eclipse-userlibraries>
+
